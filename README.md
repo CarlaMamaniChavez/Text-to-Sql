@@ -13,7 +13,7 @@ Una interfaz web construida con Flask y desplegada en Azure App Services
 
 Este trabajo está orientado a resolver una necesidad común en instituciones financieras y otras organizaciones que manejan datos operativos, permitiendo que personal no técnico acceda a información crítica sin necesidad de conocimientos en SQL.
 
-📂 # Estructura del repositorio
+📂 #Estructura del repositorio
 /app/ – Código fuente de la aplicación Flask
 
 /sql/ – Scripts de creación y carga de datos en la base de datos
@@ -24,4 +24,4 @@ Este trabajo está orientado a resolver una necesidad común en instituciones fi
 
 /tests/ – Casos de prueba con entradas y salidas esperadas
 
-🚀 # Cómo ejecutar
+🚀 #Cómo ejecutar
