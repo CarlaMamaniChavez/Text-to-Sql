@@ -1,0 +1,35 @@
+2025-06-17 12:12:59,540 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-17 12:12:59,541 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-17 12:12:59,542 [INFO]  * Restarting with stat
+2025-06-17 12:13:21,114 [WARNING]  * Debugger is active!
+2025-06-17 12:13:21,116 [INFO]  * Debugger PIN: 103-871-482
+2025-06-17 12:13:21,178 [INFO] 127.0.0.1 - - [17/Jun/2025 12:13:21] "GET / HTTP/1.1" 200 -
+2025-06-17 12:13:21,260 [INFO] 127.0.0.1 - - [17/Jun/2025 12:13:21] "GET /static/BanerOficiaTurFuc.png HTTP/1.1" 200 -
+2025-06-17 12:13:21,260 [INFO] 127.0.0.1 - - [17/Jun/2025 12:13:21] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-17 12:13:21,340 [INFO] 127.0.0.1 - - [17/Jun/2025 12:13:21] "GET /static/icon_salomon.jpg HTTP/1.1" 200 -
+2025-06-17 12:13:21,364 [INFO] 127.0.0.1 - - [17/Jun/2025 12:13:21] "GET /static/logo.png HTTP/1.1" 200 -
+2025-06-17 12:22:23,173 [INFO] 127.0.0.1 - - [17/Jun/2025 12:22:23] "GET /static/user.png HTTP/1.1" 200 -
+2025-06-17 12:22:24,169 [INFO] HTTP Request: POST https://projectunivers9751172516.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-17 12:22:24,725 [INFO] HTTP Request: POST https://projectunivers9751172516.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-17 12:22:26,638 [INFO] HTTP Request: POST https://projectunivers9751172516.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-17 12:22:29,126 [INFO] HTTP Request: POST https://projectunivers9751172516.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-17 12:22:29,475 [INFO] HTTP Request: POST https://projectunivers9751172516.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-17 12:22:31,108 [INFO] HTTP Request: POST https://projectunivers9751172516.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-17 12:22:32,892 [INFO] HTTP Request: POST https://projectunivers9751172516.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-06-17 12:22:33,959 [INFO] 127.0.0.1 - - [17/Jun/2025 12:22:33] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2025-07-20 19:24:21,339 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-20 19:24:21,339 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-20 19:24:21,342 [INFO]  * Restarting with stat
+2025-07-20 19:24:38,726 [WARNING]  * Debugger is active!
+2025-07-20 19:24:38,728 [INFO]  * Debugger PIN: 539-532-713
+2025-07-20 19:24:38,802 [INFO] 127.0.0.1 - - [20/Jul/2025 19:24:38] "GET / HTTP/1.1" 200 -
+2025-07-20 19:24:38,872 [INFO] 127.0.0.1 - - [20/Jul/2025 19:24:38] "GET /static/BanerOficiaTurFuc.png HTTP/1.1" 200 -
+2025-07-20 19:24:38,875 [INFO] 127.0.0.1 - - [20/Jul/2025 19:24:38] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-20 19:24:38,945 [INFO] 127.0.0.1 - - [20/Jul/2025 19:24:38] "GET /static/icon_salomon.jpg HTTP/1.1" 200 -
+2025-07-20 19:24:38,964 [INFO] 127.0.0.1 - - [20/Jul/2025 19:24:38] "GET /static/logo.png HTTP/1.1" 200 -
+2025-07-20 19:24:48,158 [INFO] 127.0.0.1 - - [20/Jul/2025 19:24:48] "GET /static/user.png HTTP/1.1" 200 -
+2025-07-20 19:24:48,264 [INFO] Retrying request to /chat/completions in 0.419839 seconds
+2025-07-20 19:24:48,728 [INFO] Retrying request to /chat/completions in 0.964394 seconds
+2025-07-20 19:24:49,782 [INFO] 127.0.0.1 - - [20/Jul/2025 19:24:49] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
